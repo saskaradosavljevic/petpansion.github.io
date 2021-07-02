@@ -1,0 +1,104 @@
+@media screen and (max-width: 1173px){
+    .sr-text p{
+        font-size: 21px;
+    }
+}
+@media screen and (max-width: 992px){
+    .sr-text p{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 952px){
+    .sr-text p{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width: 863px){
+    .sr-text p{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 766px){
+    .sr-text p{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 673px) {
+    .sr-intro h3 a{
+        font-size: 20px;
+    }
+    .sr-icon p{
+        font-size: 17px;
+    }
+    .text{
+        font-size: 14px;
+    }
+    
+}
+@media screen and (max-width: 575px){
+    .sr-icon h4{
+        font-size: 30px;
+    }
+    .sr-icon p{
+        font-size: 23px;
+    }
+    
+}
+@media screen and (max-width:509px){
+    .sr-intro h2{
+        font-size: 30px;
+    }
+    .sr-intro h3 a{
+        font-size: 20px;
+    }
+    .sr-text p{
+        font-size: 19px;
+    }
+    .text{
+        font-size: 12px;
+    }
+    
+}
+@media screen and (max-width:442px) {
+    .sr-intro h1{
+        font-size: 45px;
+    }
+    .sr-intro h2{
+        font-size: 27px;
+    }
+    .sr-intro h3 a{
+        font-size: 18px;
+    }
+    .sr-text p{
+        font-size: 20px;
+    }
+    
+        
+}
+@media screen and (max-width:401px){
+    .sr-intro h1{
+        font-size: 42px;
+    }
+    .sr-intro h3 a{
+        font-size:17px;
+    }
+    .sr-tx{
+        font-size: 20px;
+    }
+    .text{
+        font-size: 14px;
+    }
+
+}
+@media screen and (max-width:383px){
+    .sr-intro h1{
+        font-size: 37px;
+    }
+    .sr-intro h3 a{
+        font-size: 14px;
+    }
+    .sr-text p{
+        font-size: 17px;
+    }
+
+}

@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400&display=swap');
+:root{
+    --srDark:#000;
+    --srGray:#e9e9e9;
+    --srViolet:#8952c0;
+    --srBlue:#184e69;
+}
+
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: var(--srDark);
+    
+}
+span{
+    color: var(--srViolet);
+}
+.intro{
+    background: url(../img/dogpool.jpg) no-repeat;
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+}
+.sr-bg-violet{
+    background: var(--srViolet) !important;
+}
+.sr-navbar a{
+    color: var(--srDark) !important;
+}
+.sr-navbar li a{
+    text-transform: uppercase;
+    font-size: 20px;  
+}
+.sr-navbar a:hover{
+    color: var(--srViolet) !important;
+}
+.sr-intro h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+.sr-icon p{
+    font-size: 20px;
+}
+.sr-icon h4{
+    font-weight: 600;
+}
+
+.sr-bg-gray{
+    background: var(--srGray);
+}
+
+.sr-text p{
+    font-size: 23px;
+    text-align: justify;
+
+}
+.size{
+    width: 100%;
+}
+.sr-text-2{
+    font-size: 26px;
+    font-weight: 700;
+}
+.text{
+    width: 40%;
+    margin: 10px;
+    text-align: justify;
+    font-size: 15px;
+}
+.sr-tx{
+    font-size: 21px;
+    font-weight: 600;
+}
+.sr-bg-blue{
+    background: var(--srBlue);
+}
+
+
+
+
+    
+
+
